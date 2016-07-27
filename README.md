@@ -47,4 +47,4 @@ const server = new ParseServer({
 ```
 
 ## License
-MIT
+MIT License. See [LICENSE](./LICENSE) file for details.
